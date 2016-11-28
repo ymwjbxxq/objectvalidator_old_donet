@@ -42,7 +42,6 @@
   <ItemGroup>
     <Compile Include="IValidatable.cs" />
     <Compile Include="IValidator.cs" />
-    <Compile Include="TypeLoaderExtensions.cs" />
     <Compile Include="ValidationResponse.cs" />
     <Compile Include="Validator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

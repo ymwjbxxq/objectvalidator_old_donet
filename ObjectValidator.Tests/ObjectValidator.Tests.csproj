@@ -53,7 +53,7 @@
     <Compile Include="Fakes\Person.cs" />
     <Compile Include="Fakes\Validators\SurnameValidator.cs" />
     <Compile Include="Fakes\Validators\NameValidator.cs" />
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="ValidatorTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
