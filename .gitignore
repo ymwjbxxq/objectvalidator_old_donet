@@ -1,0 +1,5 @@
+.vs/
+ObjectValidator/bin/
+ObjectValidator/obj/
+ObjectValidator.Tests/obj/
+ObjectValidator.Tests/bin/
